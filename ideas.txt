@@ -6,3 +6,7 @@ Ideas to Implement in the Documentation's Rescue:
   have a decently sized chunk of instructions that are pretty much the same.
 
 - Unify all Markdown's formatting.
+
+- Unify the building docs of CLR platforms. This is because all of them
+  have a decently sized chunk of instructions that are pretty much the same.
+
