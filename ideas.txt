@@ -1,0 +1,8 @@
+Ideas to Implement in the Documentation's Rescue:
+
+- Unify or link the main README with the docs' README.
+
+- Unify the building docs of CLR, Libraries, and Mono. This is because the three
+  have a decently sized chunk of instructions that are pretty much the same.
+
+- Unify all Markdown's formatting.
